@@ -9,5 +9,7 @@ The design principles of coolceph vimrc is simple, green and easy. Coolceph vimr
 this program provide the full tar ball, no need to download other vimrc plugin
 
 1 download vimrc.tar.gz
+
 2 tar -zxvf vim.tar.gz  
+
 3 echo "source $HOME/.vim/vimrc" > ~/.vimrc
