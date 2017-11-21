@@ -12,6 +12,4 @@ support MAC, linux
 
 1 download vim.tar.gz (from this repo)
 
-2 tar -zxvf vim.tar.gz  
-
-3 echo "source $HOME/.vim/vimrc" > ~/.vimrc
+3 sh install.sh
