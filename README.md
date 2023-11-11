@@ -22,11 +22,12 @@ support MAC, linux
 
 安装如下命令进行配置
 ``` shell
-# 下载 或者git clone 本项目
+# 下载 或者git clone 本项 目 
 cp zshell_env.tar.gz ~/
 cd ~/
 tar -zxvf zshell_env.tar.gz
 echo "chsh -s /usr/bin/zsh" >> ~/.bashrc 
+
 ```
 
 
