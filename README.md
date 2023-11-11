@@ -27,7 +27,6 @@ cp zshell_env.tar.gz ~/
 cd ~/
 tar -zxvf zshell_env.tar.gz
 echo "chsh -s /usr/bin/zsh" >> ~/.bashrc 
-
 ```
 
 
